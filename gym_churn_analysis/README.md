@@ -1,3 +1,4 @@
+# Predictive analysis for gym churn rate
 This report presents the analysis of data from gym chain: Model Fitness. The goal of the analysis is to provide insights and possible interaction strategies to reduce churn rate among Model Fitness customers. To that end, I have:
 
 - developed machine learning algorithms to predict the probability of churn for each customer in the coming month;
