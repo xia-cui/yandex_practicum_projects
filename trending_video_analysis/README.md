@@ -1,4 +1,6 @@
 
+There are three files in this folder: the project file in jupyter notebook, in html, and a p2p report. 
+
 The report presents the analysis of the trending videos data and respond to three key questions: 
 
 1. Which video categories trended most often?
