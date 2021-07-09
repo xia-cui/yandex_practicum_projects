@@ -1,4 +1,5 @@
 
+# App use analysis for Norbu
 The analysis for the Norbu project used data imported from BigQuery. The goal of the analysis is to find out user 7, 14, 21, 28 day retention rates, user LTV, product popularity, user journey and potential barriers to user experience. 
 
 This folder contains analysis report and presentation for the Norbu app analysis project: 
