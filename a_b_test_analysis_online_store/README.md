@@ -1,4 +1,5 @@
 
+# A/B test analysis for an online store
 The goal of this analysis is to determine if a new recommender system will change the customer conversion rate at each stage of the sales funnel (→product_page → product_cart → purchase) within 14 days of signing up. 
 
 A key aspect of the project is also to assess the viability of carrying out an A/B test analysis given the group size. 
