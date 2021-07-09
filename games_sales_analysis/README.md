@@ -1,3 +1,4 @@
+# Video game sales analysis 
 The report in this folder presents the analysis of the video games sales data from the online store Ice, spanning over 30 years from 1980 to 2016.
 
 The dataset contains information of the games' platform and genre, the year they were released, their sales in three regions, North America, Europe, and Japan, expert and user review scores, and their ESRB (Entertainment Software Rating Board) rating.
