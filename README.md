@@ -1,6 +1,6 @@
 # Yandex Practicum projects
 
-The projects include those completed for Practicum's Data Analyst professional training programs, as well as the business projects for Practicum partners. 
+Projects below include those completed for Practicum's Data Analyst professional training programs, as well as the business projects for Practicum partners. 
 
 | Project name | Description | Main libraries used | 
 | :---------------------- | :---------------------- | :---------------------- |
