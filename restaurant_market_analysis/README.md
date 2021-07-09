@@ -1,3 +1,4 @@
+# LA restaurant market analysis 
 This report presents the analysis of the restaurants in Los Angeles. Findings of the analysis are to inform a proposed cafe project that hopes to attract potential investors.
 
 To this end, the analysis of the LA restaurant data will focus on the following key aspects:
