@@ -1,4 +1,5 @@
 
+# Game localisation review analysis 
 The goal of the analysis for Allcorrect company is to determine key words to distinguish localisation reviews, as well as to examine reasons for negative reviews. 
 
 The data used for the anlaysis is provided by Allcorrect. It includes game id, user score and review text in its original language. The games are on both mobile and pc platforms which have a different user scoing system. The game ids have been anynomised.
