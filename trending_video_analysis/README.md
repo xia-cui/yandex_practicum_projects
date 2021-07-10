@@ -15,3 +15,5 @@ https://public.tableau.com/views/Reportontrendingvideos-XiaCui/TrendingVideosDas
 The best view of the dashboard is desktop, enlarged browser window but not full screen. 
 
 The trending_video_report.pdf also provides the link to dashboard on page 1. 
+
+Note: graphs using plotly may not show in Jupyter notebook. To see full visualizations, html can be downloaded and viewed in your local machine.
