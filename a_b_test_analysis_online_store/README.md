@@ -6,3 +6,4 @@ A key aspect of the project is also to assess the viability of carrying out an A
 
 Readers of the project might also find using sankey diagram to visualize user journey helpful and can modify the codes for their own use. 
 
+Note: graphs using plotly may not show in Jupyter notebook. To see full visualizations, html can be downloaded and viewed in your local machine.
