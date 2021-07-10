@@ -11,3 +11,5 @@ This folder contains analysis report and presentation for the Norbu app analysis
 
 
 The notebook and the function file shows how to access values of particular event parameters in the BigQuery nested data structure, as well as how to plot user journeys using sankey diagram. Analysts who are interested in using the function file will need to change the parameters based on their data structure. 
+
+Note: graphs using plotly may not show in Jupyter notebook. To see full visualizations, html can be downloaded and viewed in your local machine.
